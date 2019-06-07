@@ -16,8 +16,8 @@ En caso de que el epicentro ocurra fuera del mar y cerca de alguna ciudad, en ba
 
 **Entregables de la fase remota:**
 
-- [ ] Protocolo de investigacion (en proceso)
-- [ ] Video demostrativo
+- [ ] Protocolo de investigacion (En proceso)
+- [ ] Video demostrativo (En proceso)
 
 **Cosas que se necesitan para un stand perfecto:**
 
